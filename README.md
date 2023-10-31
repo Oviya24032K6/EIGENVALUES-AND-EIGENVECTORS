@@ -6,9 +6,13 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1 : 
+import numpy module to use the buld-in functions for calculations.
 ### Step 2: 
-### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
+Prepare the lists from each equationss and assign in np.array()
+### Step 3:
+Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 ### Step 4: 
+end the program.
 
 ## Program:
 ```
@@ -22,6 +26,7 @@ print("Eigen values are",eigenvalues,"and Eigen Vectors are",eigenvectors)
 ```
 
 ## Output:
-![output](/output.png.png)
+![OUTPUT](https://github.com/Oviya24032K6/EIGENVALUES-AND-EIGENVECTORS/assets/147139999/d9458b69-ce2d-48dc-a98a-ad6a889ba97f)
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
